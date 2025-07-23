@@ -3,7 +3,7 @@ function sigmoid(x) {
 }
 
 function sigmoidDerivative(x) {
-  const s = sigmoid(x);
+  let s = sigmoid(x);
   return s * (1 - s);
 }
 
