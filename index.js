@@ -9,7 +9,7 @@ function sigmoidDerivative(x) {
 
 let weight = Math.random();
 let bias = Math.random();
-
+ 
 const data = [
   { input: 0.0, target: 0.0 },
   { input: 0.2, target: 0.0 },
