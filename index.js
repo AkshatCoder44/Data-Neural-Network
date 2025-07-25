@@ -12,7 +12,7 @@ let bias = Math.random();
  
 const data = [
   { input: 0.0, target: 0.0 },
-  { input: 0.2, target: 0.0 },
+  { input: 0.2, target: 0.0 }, 
   { input: 0.4, target: 0.0 },
   { input: 0.6, target: 1.0 },
   { input: 0.8, target: 1.0 },
